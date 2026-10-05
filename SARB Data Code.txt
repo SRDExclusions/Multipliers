@@ -1,0 +1,28 @@
+Social protection:
+4759K Government finance statistics of social security funds. Cash payments for operating activities: Social benefits
+4710K Government finance statistics of national government. Cash payments for operating activities: Social benefits
+4808K Government finance statistics of consolidated provincial government. Cash payments for operating activities: Social benefits
+4867K Government finance statistics of consolidated general government. Cash payments for operating activities: Social benefits
+
+Revenue:
+4867K Government finance statistics of consolidated general government. Cash receipts for operating activities: Taxes
+
+Government expenditure:
+4862K Government finance statistics of consolidated general government. Cash payments for operating activities: Compensation of employees
+4863K Government finance statistics of consolidated general government. Cash payments for operating activities: Purchase of goods and services
+4861K Government finance statistics of consolidated general government. Cash payments for operating activities. 
+6008K Expenditure on gross domestic product. At current prices. Final consumption expenditure by general government
+6008C Expenditure on gross domestic product. At constant 2015 prices. Final consumption expenditure by general government
+
+GDP:
+6006C Expenditure on gross domestic product. At constant 2015 prices. Expenditure on gross domestic product (including residual) (GDP at market prices)
+6006K Expenditure on gross domestic product. At current prices. Expenditure on gross domestic product (including residual) (GDP at market prices)
+
+Household consumption:
+6007K Final consumption expenditure by households. At current prices. Total. 
+6007C Final consumption expenditure by households. At constant 2015 prices. Total. 
+
+Private investment
+6109K Gross fixed capital formation by type of organisation. Private business enterprises. At current prices.
+6109C Gross fixed capital formation by type of organisation. Private business enterprises. At constant 2015 prices.
+
