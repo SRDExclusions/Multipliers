@@ -11,6 +11,6 @@ Usage and License:
 This do-file is provided for academic and research purposes. Users are encouraged to utilize and stress-test the code in compliance with professional standards for transparent and ethical research reporting.
 
 This repository also includes an excel spreadsheet of social grants budget data: "Master spreadsheet - multiplier.xls" 
-These annual series for spending on grants were compiled using National Treasury's national and provincial data. 
+These annual series for spending on grants were compiled using National Treasury's national and provincial data: 
 *   **Data Source:** National Treasury
 *   **URL:** [National Treasury Document Portal](https://www.treasury.gov.za/documents/national%20budget/default.aspx)
